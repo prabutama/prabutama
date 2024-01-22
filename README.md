@@ -1,5 +1,5 @@
 # 💫 About Me :
-- 👋 Hi, I’m Danur Isa Prabutama
+- 🙋‍♂️ Hi, I’m Danur Isa Prabutama
 - 👀 I’m interested in Web Development
 - 🤝 How to reach me isaprabutama@gmail.com
 
