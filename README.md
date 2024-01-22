@@ -1,7 +1,7 @@
 # 💫 About Me :
 - 👋 Hi, I’m Danur Isa Prabutama
 - 👀 I’m interested in Web Development
-- 📫 How to reach me isaprabutama@gmail.com
+- 🤝 How to reach me isaprabutama@gmail.com
 
  [![](https://visitcount.itsvg.in/api?id=prabutama&label=Profile%20Views&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in) 
 
