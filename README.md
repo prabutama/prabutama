@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 ### ♨️ Program Language
-  ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)  ![Javascript](https://img.shields.io/badge/javascript-%23fff000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF)
+  ![HTML](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23e95d2a) ![](https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)  ![Javascript](https://img.shields.io/badge/javascript-%23fff000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF)
  ![PHP](https://img.shields.io/badge/php-%237377ad.svg?style=for-the-badge&logo=php&logoColor=%23FFFFFF)
 
 
