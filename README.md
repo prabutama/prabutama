@@ -17,7 +17,7 @@
 ### 🖌️ Styling
   ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor%2338B2AC)
   
-### ✨ Framework Web
+### ✨ Framework 
   ![Vue.js](https://img.shields.io/badge/vue-%23000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=%234FC08D) ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2366dbfb)
   
   
