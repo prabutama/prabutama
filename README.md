@@ -24,7 +24,7 @@
 ### 🎁 Package Manager
  ![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=%23cd3e3d)
   
-###  Design
+### 🏜️ Design
   ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=%23f25425)
 
 # 📊 GitHub Stats:
