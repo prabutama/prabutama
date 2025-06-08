@@ -157,7 +157,7 @@
 
 ### 🚀 **Active Projects**
 - 📊 **Network Monitoring Systems** - Real-time network health monitoring
-- ⚙️ **Rsource Monitoring Systems** - Real-time machine monitoring
+- ⚙️ **Resource Monitoring Systems** - Real-time machine monitoring
 
 ### 🎓 **Learning Path 2024**
 - ☸️ **Proxmox**
