@@ -23,7 +23,6 @@
 ```yaml
 🧑‍💻 Profile:
   name: "Danur Isa Prabutama"
-  title: "Infrastructure Architect"
   location: "🇮🇩 Indonesia"
   
 🎯 Mission:
