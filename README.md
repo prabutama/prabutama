@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:96CEB4,80:FFEAA7,100:DDA0DD&height=120&section=header&text=DANUR%20ISA%20PRABUTAMA&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Network+Infrastructure+Engineer;💻+Data+Center+Operations+Entusiast;⚡+Software+Infrastructure+Enthusiast;🖥️+System+Administrator;🌐+Building+Digital+Highways;🔧+Optimizing+Network+Performance;📡+Connecting+The+World!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Network+Infrastructure;💻+Data+Center;⚡+Software+Infrastructure;🖥️+System+Administrator;🌐+Building+Digital+Highways;🔧+Optimizing+Network+Performance;📡+Connecting+The+World!" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabutama&label=Profile%20views&color=00D9FF&style=plastic" alt="Profile views" />
