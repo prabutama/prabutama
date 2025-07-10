@@ -77,9 +77,8 @@
 <td width="33%" align="center">
 
 ### 🌐 **NETWORKING & INFRASTRUCTURE**
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,cloudflare" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare" /><br/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 <img src="https://img.shields.io/badge/SNMP-FF6B35?style=for-the-badge&logo=datadog&logoColor=white" alt="SNMP"/>
 
@@ -89,17 +88,15 @@
 ### 💻 **PROGRAMMING & AUTOMATION**
 <img src="https://skillicons.dev/icons?i=python,bash,c,powershell,vim" /><br/>
 <img src="https://img.shields.io/badge/Network%20Automation-FF6B6B?style=for-the-badge&logo=ansible&logoColor=white" alt="Network Automation"/>
-<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-4ECDC4?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC"/>
 <img src="https://img.shields.io/badge/API%20Integration-45B7D1?style=for-the-badge&logo=fastapi&logoColor=white" alt="API"/>
 
 </td>
 <td width="33%" align="center">
 
 ### 📊 **MONITORING & DATABASES**
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,grafana,prometheus" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,grafana" /><br/>
 <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
 <img src="https://img.shields.io/badge/ThingsBoard-FF6B35?style=for-the-badge&logo=iot&logoColor=white" alt="ThingsBoard"/>
-<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK"/>
 
 </td>
 </tr>
